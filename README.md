@@ -1,4 +1,4 @@
-# # Inteligencja Obliczeniowa w Analizie Danych Cyfrowych
+# Inteligencja Obliczeniowa w Analizie Danych Cyfrowych
 
 ### Autorzy
 - Dominik Breksa
