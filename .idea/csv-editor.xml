@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\zadania\2\aipython\data\car.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\zadania\2\aipython\data\carbool.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
